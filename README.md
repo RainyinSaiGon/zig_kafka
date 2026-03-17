@@ -11,7 +11,7 @@ A distributed message queue built from scratch in Zig. Designed for high perform
 
 ## Prerequisites
 
-- **Zig:** `0.15.2`
+- **Zig:** `0.16.0 (master version)`
 - **Environment:** A Linux environment (or WSL on Windows) is required to utilize the `io_uring` async I/O capabilities.
 
 ## Getting Started
